@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
