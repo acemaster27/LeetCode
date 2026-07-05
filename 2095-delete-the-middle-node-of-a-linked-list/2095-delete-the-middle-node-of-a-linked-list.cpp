@@ -18,9 +18,9 @@ public:
             temp = temp -> next;
         }
         if(count == 1) return nullptr;
-        count = count / 2;
+        int target = count / 2;
         temp = head;
-        while(--count) {
+        while(--target) {
             temp = temp -> next;
         }
         temp -> next = temp -> next -> next;
