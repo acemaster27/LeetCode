@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> r = {1, -1, 0, 0};
     vector<int> c = {0, 0, 1, -1};
-    bool Solve(vector<vector<char>> &board, string word, int row, int col, int index, vector<vector<bool>> &visited) {
+    bool Solve(vector<vector<char>> &board, string &word, int row, int col, int index, vector<vector<bool>> &visited) {
         visited[row][col] = true;
         if(index == word.size()) return true;
         for(int i = 0; i < 4; i++) {
