@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -92,9 +93,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0100-same-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
