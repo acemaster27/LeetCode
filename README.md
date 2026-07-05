@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
@@ -82,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
