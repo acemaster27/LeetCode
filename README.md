@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0085-maximal-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -142,8 +145,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
