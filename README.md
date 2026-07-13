@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0051-n-queens) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
