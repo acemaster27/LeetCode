@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0685-redundant-connection-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0685-redundant-connection-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
