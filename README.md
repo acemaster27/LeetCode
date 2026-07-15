@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -199,9 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
