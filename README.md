@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
