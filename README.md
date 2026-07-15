@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Number Theory
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
