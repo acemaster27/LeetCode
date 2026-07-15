@@ -12,4 +12,7 @@ public:
         }
         return num;
     }
+    // digital root
+    // if(n == 0) return 0;
+    // return (n - 1) % 9 + 1;
 };
