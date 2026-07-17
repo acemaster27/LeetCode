@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0685-redundant-connection-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
