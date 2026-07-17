@@ -1,10 +1,7 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        int i = 0, mini = nums[0], n = nums.size();
-        for(int i = 0; i < n; i++) {
-            mini = min(mini, nums[i]);
-        }
+        int i = 0, n = nums.size();
         while(i < n) {
             if(nums[i] <= 0 || nums[i] > n) {
                 i++;
