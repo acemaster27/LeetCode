@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
