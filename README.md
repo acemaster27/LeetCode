@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0287-find-the-duplicate-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
@@ -237,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
