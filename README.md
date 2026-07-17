@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -125,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0435-non-overlapping-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
