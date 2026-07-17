@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0207-course-schedule) |
 | [0685-redundant-connection-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0207-course-schedule) |
 | [0685-redundant-connection-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0743-network-delay-time) |
 ## Merge Sort
 |  |
 | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
