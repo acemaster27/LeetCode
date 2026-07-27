@@ -14,7 +14,8 @@ public:
                     minimum = abs(target - sum);
                 }
                 if(sum > target) right--;
-                else left++;
+                else if(sum < target)left++;
+                else return target;
             }
         }
         return  ans;
