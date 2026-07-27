@@ -1,14 +1,18 @@
 class Solution {
 public:
-    void Solve(int open, int close, int n, string st, vector<string> &ans) {
+    void Solve(int open, int close, int n, string &st, vector<string> &ans) {
         if(close == n) {
             ans.push_back(st);
         }
         if(open < n) {
-            Solve(open + 1, close, n, st + '(', ans); 
+            st += '(';
+            Solve(open + 1, close, n, st, ans); 
+            st.pop_back();
         }
         if(open > close) {
-            Solve(open, close + 1, n, st + ')', ans);
+            st += ')';
+            Solve(open, close + 1, n, st, ans);
+            st.pop_back();
         }
 
     }
