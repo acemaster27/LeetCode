@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0070-climbing-stairs) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 ## Trie
 |  |
