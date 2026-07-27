@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0041-first-missing-positive) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
