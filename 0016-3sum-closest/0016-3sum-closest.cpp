@@ -6,13 +6,15 @@ public:
         int ans = nums[0] + nums[1] + nums[2];
         int minimum = abs(target - ans);
         for(int i = 0; i < n - 2; i++) {
-            for(int j = i + 1; j < n - 1; j++) {
-                for(int k = j + 1; k < n; k++) {
-                    if(abs(nums[i] + nums[j] + nums[k] - target) < minimum) {
-                        minimum = abs(nums[i] + nums[j] + nums[k] - target);
-                        ans = nums[i] + nums[j] + nums[k];
-                    }
+            int left = i + 1, right = n - 1;
+            while(left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+                if(abs(target - sum) < minimum) {
+                    ans = sum;
+                    minimum = abs(target - sum);
                 }
+                if(sum > target) right--;
+                else left++;
             }
         }
         return  ans;
