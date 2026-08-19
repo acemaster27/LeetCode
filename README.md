@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0204-count-primes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0079-word-search) |
 ## Trie
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
 ## Geometry
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
