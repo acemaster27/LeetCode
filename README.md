@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Number Theory
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Topological Sort
 |  |
 | ------- |
