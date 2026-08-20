@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Geometry
 |  |
 | ------- |
