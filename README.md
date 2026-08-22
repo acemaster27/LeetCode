@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
