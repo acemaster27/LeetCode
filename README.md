@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Number Theory
 |  |
 | ------- |
