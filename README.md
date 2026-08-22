@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -314,4 +318,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0743-network-delay-time) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
