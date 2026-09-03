@@ -1,18 +1,17 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int even = 0, odd = 0, temp = INT_MAX;
+        int even = 0, tempOdd = INT_MAX, tempEven = INT_MAX;
         for(int num : nums1) {
-            if(num % 2 == 0) even++;
+            if(num % 2 == 0) {
+                even++;
+                tempEven = min(tempEven, num);
+            }
             else {
-                odd++;
-                temp = min(temp, num);
+                tempOdd = min(tempOdd, num);
             }
         }
-        if(even == 0 || odd == 0) return true;
-        for(int num : nums1) {
-            if(num % 2 == 0 && num < temp) return false;
-        }
-        return true;
+        if(even == 0 || even == nums1.size() || tempOdd < tempEven) return true;
+        return false;
     }
 };
