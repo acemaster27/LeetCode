@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
