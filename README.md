@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0836-rectangle-overlap](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2029-stone-game-ix](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/2029-stone-game-ix) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/acemaster27/https-github.com-acemaster27-LeetCode/tree/master/0858-mirror-reflection) |
 ## Counting
 |  |
